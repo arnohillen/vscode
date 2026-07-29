@@ -63,7 +63,7 @@ export const AgentHostSystemProxyEnabledSettingId = 'chat.agentHost.systemProxy.
  */
 export const AgentHostCopilotMultiRootEnabledSettingId = 'chat.agentHost.copilotAgent.multiRootEnabled';
 
-// The Copilot-CLI-specific setting IDs (`customTerminalTool`, `opus48Prompt`,
+// The Copilot-CLI-specific setting IDs (`customTerminalTool`,
 // `reasoningEffortOverride`, `modelCapabilityOverrides`) live with their
 // root-config keys in `copilotCliConfig.ts`.
 
